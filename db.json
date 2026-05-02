@@ -1,0 +1,330 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "name": "Coke",
+      "description": "Classic Coca-Cola served chilled.",
+      "price": "20",
+      "category": "Đồ uống",
+      "status": "Available",
+      "image": "https://i.pinimg.com/1200x/95/75/63/9575638d883262576c9ac730e14f736a.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Apple Pie",
+      "description": "Classic apple pie with a flaky crust, filled with cinnamon-spi...",
+      "price": "600000",
+      "category": "Món chính",
+      "status": "Unavailable",
+      "image": "https://i.pinimg.com/1200x/4a/a5/0a/4aa50a06d59af6a6e08b434d787527c6.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Ice Cream",
+      "description": "Your choice of vanilla, chocolate, or strawberry ice cream, s...",
+      "price": "50000",
+      "category": "Tráng miệng",
+      "status": "Available",
+      "image": "https://i.pinimg.com/1200x/73/e7/ff/73e7ff9043ff44cb36c2a52c2804aa50.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Edamame",
+      "description": "Steamed young soybeans sprinkled with sea salt. A simple...",
+      "price": "50000",
+      "category": "Tráng miệng",
+      "status": "Unavailable",
+      "image": "https://i.pinimg.com/1200x/a3/85/e7/a385e72282b5fd2ad7ce97254f3de90f.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Coffee",
+      "description": "Freshly brewed coffee, rich and aromatic.",
+      "price": "30000",
+      "category": "Đồ uống",
+      "status": "Available",
+      "image": "https://i.pinimg.com/736x/f0/65/5f/f0655f2737da76be9b4ac435c65e3d9b.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Cobb Salad",
+      "description": "A hearty option with mixed greens, chicken, bacon, eggs, av...",
+      "price": 12,
+      "category": "Món chính",
+      "status": "Available",
+      "image": "https://i.pinimg.com/1200x/cc/f4/b5/ccf4b53ea291d2da0fc8b299f1626ef5.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Sprite",
+      "description": "Crisp and refreshing lemon-lime Sprite.",
+      "price": "20000",
+      "category": "Đồ uống",
+      "status": "Available",
+      "image": "https://i.pinimg.com/736x/ca/4e/fe/ca4efe3c52806f7c887bf527b4d092fa.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Nicoise Salad",
+      "description": "Tuna, green beans, potatoes, eggs, olives, and tomatoes ov...",
+      "price": "10000",
+      "category": "Khai vị",
+      "status": "Available",
+      "image": "https://i.pinimg.com/736x/74/ae/b6/74aeb6e7bf510344b00e9969893c4c6d.jpg"
+    },
+    {
+      "status": "Available",
+      "category": "Tráng miệng",
+      "name": "Bánh Kem",
+      "image": "https://i.pinimg.com/736x/8a/f7/8a/8af78ac55223a11b6fe0dca5f1cb4e93.jpg",
+      "price": "50000",
+      "description": "Ngon ",
+      "id": "yQ8_9Rznv60"
+    },
+    {
+      "status": "Available",
+      "category": "Tráng miệng",
+      "image": "https://i.pinimg.com/736x/8a/f7/8a/8af78ac55223a11b6fe0dca5f1cb4e93.jpg",
+      "name": "Bánh Kem Dâu",
+      "price": "30000",
+      "description": "Mê",
+      "id": "_d6sSH2Zv4A"
+    },
+    {
+      "status": "Unavailable",
+      "category": "Tráng miệng",
+      "image": "https://i.pinimg.com/1200x/75/db/67/75db673ec72f6ac5fe20d75f7f5cc18d.jpg",
+      "name": "Bánh Gato",
+      "price": "2000",
+      "description": "Ngon\n",
+      "id": "bG9PZXn34kI"
+    },
+    {
+      "status": "Available",
+      "category": "Tráng miệng",
+      "image": "https://i.pinimg.com/736x/f4/f0/a3/f4f0a3da21e4ecda84a5e0b311c5f2fe.jpg",
+      "name": "Gato",
+      "price": "200",
+      "description": "ngon",
+      "id": "PG8cZmFQz4Q"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Quýy",
+      "birthday": "2002-05-20",
+      "phone": "0905123452",
+      "address": "Đà Nẵng",
+      "gender": "Nữ"
+    },
+    {
+      "id": "2",
+      "name": "Vinh",
+      "birthday": "2001-11-12",
+      "phone": "0905222333",
+      "address": "Đà Nẵng",
+      "gender": "Khác"
+    },
+    {
+      "id": "3",
+      "name": "Lâm",
+      "birthday": "2003-02-28",
+      "phone": "0905444555",
+      "address": "Huế",
+      "gender": "Nam"
+    },
+    {
+      "id": "4",
+      "name": "Đức",
+      "birthday": "2000-08-15",
+      "phone": "0905666777",
+      "address": "Hà Nội",
+      "gender": "Nam"
+    },
+    {
+      "id": "5",
+      "name": "Bảo",
+      "birthday": "2004-02-03",
+      "phone": "0905888999",
+      "address": "TP Hồ Chí Minh",
+      "gender": "Nam"
+    },
+    {
+      "id": "6",
+      "name": "Hiếu",
+      "birthday": "1999-04-10",
+      "phone": "0905000110",
+      "address": "Cần Thơ",
+      "gender": "Nam"
+    },
+    {
+      "id": "7",
+      "name": "Toàn",
+      "birthday": "2002-01-01",
+      "phone": "0905000112",
+      "address": "Đà Nẵng",
+      "gender": "Nữ"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "customerName": "Quý",
+      "createdDate": "2026-04-01",
+      "status": "Hoàn Thành",
+      "paymentStatus": "Đã xử lý",
+      "products": [
+        {
+          "id": "1",
+          "name": "Spaghetti Carbonara",
+          "price": 14,
+          "quantity": 2
+        },
+        {
+          "id": "3",
+          "name": "Coke",
+          "price": 20,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "customerName": "Vinh",
+      "createdDate": "2026-04-02",
+      "status": "",
+      "paymentStatus": "Đang xử lý",
+      "products": [
+        {
+          "id": "8",
+          "name": "Cobb Salad",
+          "price": 12,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "customerName": "Lâm",
+      "createdDate": "2026-04-03",
+      "status": "Hủy đơn",
+      "paymentStatus": "Hoàn tiền",
+      "products": [
+        {
+          "id": "5",
+          "name": "Ice Cream",
+          "price": 4,
+          "quantity": 3
+        },
+        {
+          "id": "9",
+          "name": "Sprite",
+          "price": 20000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "customerName": "Đức",
+      "createdDate": "2026-04-04",
+      "status": "Hoàn Thành",
+      "paymentStatus": "Đã xử lý",
+      "products": [
+        {
+          "id": "10",
+          "name": "Nicoise Salad",
+          "price": 10000,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "customerName": "Bảo",
+      "createdDate": "2026-04-05",
+      "status": "Hoàn Thành",
+      "paymentStatus": "Đã xử lý",
+      "products": [
+        {
+          "id": "7",
+          "name": "Coffee",
+          "price": 30000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "customerName": "Hiếu",
+      "createdDate": "2026-04-06",
+      "status": "Hủy đơn",
+      "paymentStatus": "Hoàn tiền",
+      "products": [
+        {
+          "id": "1",
+          "name": "Spaghetti Carbonara",
+          "price": 14,
+          "quantity": 1
+        },
+        {
+          "id": "6",
+          "name": "Edamame",
+          "price": 5,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "customerName": "Vinh (Thứ 2)",
+      "createdDate": "2026-04-07",
+      "status": "Hoàn Thành",
+      "paymentStatus": "Đã xử lý",
+      "products": [
+        {
+          "id": "3",
+          "name": "Coke",
+          "price": 20,
+          "quantity": 5
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin711@gmail.com",
+      "password": "123",
+      "username": "Admin",
+      "role": "Admin",
+      "avatar": "https://i.pinimg.com/1200x/36/9d/8c/369d8c1a01f21c357fd77dd6538eaea5.jpg"
+    },
+    {
+      "id": "2",
+      "email": "staff711@gmail.com",
+      "password": "quyphan123",
+      "username": "Quý Phan",
+      "role": "Employee",
+      "avatar": "https://i.pinimg.com/736x/68/ba/ab/68baabf7eada3ba203b6025b27862f72.jpg"
+    },
+    {
+      "username": "Vinh Trần ",
+      "email": "vinhtran@gmail.com",
+      "password": "vinhtran123",
+      "avatar": "https://i.pinimg.com/736x/7b/49/f9/7b49f9fa6f35be83c59f3bd71a3943ad.jpg",
+      "role": "Employee",
+      "id": "QPg_5KhHq2Q"
+    },
+    {
+      "username": "Troll nè",
+      "email": "troll@gmail.comm",
+      "password": "1231223",
+      "avatar": "https://ui-avatars.com/api/?name=Troll nè&background=random",
+      "role": "Employee",
+      "id": "027JmMwKfno"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

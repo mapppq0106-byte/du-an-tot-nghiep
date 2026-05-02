@@ -1,0 +1,64 @@
+/* Nút bấm hình vuông bo góc có đổ bóng */
+.btn-icon-custom {
+  background-color: #ffffff;
+  border: 1px solid #e9ecef; /* Viền xám rất nhạt */
+  border-radius: 12px;       /* Bo góc mềm mại */
+  padding: 8px 12px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05); /* Đổ bóng nhẹ */
+  color: #6c757d;            /* Màu icon xám */
+}
+
+.btn-icon-custom:hover {
+  background-color: #f8f9fa;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  color: #ff5722;            /* Đổi màu icon khi hover (màu cam Poly) */
+}
+
+/* Nút đang được chọn (Active) */
+.btn-icon-custom.active {
+  background-color: #ffffff;
+  border-color: #dee2e6;
+  box-shadow: inset 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Sidebar Styles */
+.sidebar {
+  transition: all 0.3s ease;
+}
+
+.transition-all {
+  transition: all 0.2s ease-in-out;
+}
+
+.hover-light:hover {
+  background-color: #f8f9fa;
+  color: #0d6efd !important;
+}
+
+.max-w-400 {
+  max-width: 400px;
+}
+
+/* Tùy chỉnh thanh cuộn cho nội dung chính */
+.vh-100.overflow-auto::-webkit-scrollbar {
+  width: 6px;
+}
+
+.vh-100.overflow-auto::-webkit-scrollbar-thumb {
+  background: #cbd5e0;
+  border-radius: 10px;
+}
+
+/* Hiệu ứng đổ bóng cho Sidebar Link khi Active */
+.bg-primary.shadow {
+  box-shadow: 0 4px 12px rgba(13, 110, 253, 0.3) !important;
+}
+
+/* Font size nhỏ cho thông tin phụ */
+.fs-7 {
+  font-size: 0.85rem;
+}
